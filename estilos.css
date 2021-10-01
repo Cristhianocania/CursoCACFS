@@ -1,0 +1,26 @@
+.caja {
+    display: inline-block;
+    width: 233px;
+    height: 245px;
+    background: red;
+    color: yellow;
+    font-size: 40px;
+    margin:  10px .08em ;
+  
+  }
+
+  #uno {
+    
+    margin-left: 12px;
+  
+            }
+      
+  #dos {
+    
+   
+    background: black;
+    color: white;
+      }
+
+
+ 
